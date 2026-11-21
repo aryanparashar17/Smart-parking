@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid IoT & Vision Parking Detection",
+  "description": "Real-time empty parking slot detection system combining IoT ultrasonic/IR sensors with computer vision to eliminate urban parking congestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
